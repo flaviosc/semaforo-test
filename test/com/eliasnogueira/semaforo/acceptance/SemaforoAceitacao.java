@@ -32,7 +32,7 @@ public class SemaforoAceitacao {
 
 	@Test
 	public void testaCorSemafoto() {
-		driver.get("http://localhost:8888/temp/semaforo/");
+		driver.get("http://eliasnogueira.com/arquivos_blog/geral/semaforo/");
 		
 		driver.findElement(By.cssSelector("#trafficLight > div")).click();
 		
