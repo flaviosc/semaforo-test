@@ -27,6 +27,6 @@ public class Semaforo {
 			proximoSinal = Cores.VERDE;
 		}
 				
-		return "AZUL";
+		return proximoSinal;
 	}
 }
