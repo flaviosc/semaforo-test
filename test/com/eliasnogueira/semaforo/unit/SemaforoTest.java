@@ -16,7 +16,7 @@ public class SemaforoTest {
 	@Test
 	public void testeSemaforoVerde() {
 		Semaforo semaforo = new Semaforo(Cores.VERDE);
-		assertEquals(Cores.AMARELO, semaforo.getProximoStatus());
+		assertEquals(Cores.AZUL, semaforo.getProximoStatus());
 	}
 	
 	@Test
