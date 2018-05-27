@@ -1,0 +1,28 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "Semaforo",
+                "projectName": "Semaforo",
+                "workingDirectory": "c:\\Users\\flavio\\semaforo-test",
+                "args": [],
+                "vmargs": [],
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "Semaforo",
+                "projectName": "Semaforo",
+                "workingDirectory": "c:\\Users\\flavio\\semaforo-test",
+                "args": [],
+                "vmargs": [],
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
