@@ -26,6 +26,6 @@ public class Semaforo {
 		if (retorno.equals(Cores.VERMELHO)) {
 			proximoSinal = Cores.VERDE;
 		}
-		return 14;
+		return "BRANCO";
 	}
 }
