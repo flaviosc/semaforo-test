@@ -28,6 +28,5 @@ public class Semaforo {
 			proximoSinal = Cores.VERDE;
 		}
 		return proximoSinal;
-		i = i + 1;
 	}
 }
