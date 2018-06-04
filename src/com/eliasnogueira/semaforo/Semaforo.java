@@ -25,7 +25,7 @@ public class Semaforo {
 			proximoSinal = Cores.VERMELHO;
 		}
 		if (retorno.equals(Cores.VERMELHO)) {
-			proximoSinal = Cores.VERDE;
+			proximoSinal = Cores.Azul;
 		}
 		return proximoSinal;
 	}
