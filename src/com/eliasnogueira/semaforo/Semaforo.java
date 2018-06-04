@@ -8,6 +8,7 @@ package com.eliasnogueira.semaforo;
  */
 public class Semaforo {
 	
+	int i = 0;
 	private String retorno = null;
 	private String proximoSinal = null;
 	
@@ -27,5 +28,6 @@ public class Semaforo {
 			proximoSinal = Cores.VERDE;
 		}
 		return proximoSinal;
+		i = i + 1;
 	}
 }
